@@ -1,5 +1,5 @@
 # Facebook-Hacking-Framework
 
-Author: Sheikh Rishad
+# Author: Sheikh Rishad
 
 

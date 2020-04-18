@@ -3,13 +3,26 @@
 
 ## Author: Sheikh Rishad
 
-### Usage:
-```
+## Installation
+
+Use git to clone the repository.
+
+```bash
 git clone https://github.com/hackerrishad/Facebook-Hacking-Framework
-cd locator
-chmod +x Facebook_Hacking_Framework.sh
-./Facebook_Hacking_Framework.sh
 ```
+
+## Usage
+Go to the cloned directory
+```bash
+cd Facebook-Hacking-Framework
+chmod +x Facebook-Hacking-Framework.sh
+```
+Run the script
+```bash
+./Facebook-Hacking-Framework.sh
+```
+
+
 
 ### Video Demo
 [![Facebook Hacking Frameworka](https://img.youtube.com/vi/CwAhaq5gFO0/hqdefault.jpg)](https://youtu.be/CwAhaq5gFO0)

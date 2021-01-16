@@ -3,6 +3,8 @@
 
 ## Author: Sheikh Rishad
 
+Note: Facebook is a very secure platform, it is very time consuming to find an error in this platform and hack any account. However, if your target uses a weak password, you can try Brute Force / Dictionary Attack, Social Engineering.
+
 ## Installation
 
 Use git to clone the repository.
